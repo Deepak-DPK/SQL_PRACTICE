@@ -12,7 +12,7 @@ This folder contains SQL practice queries covering UNION, GROUP BY, HAVING, and 
 | `maroni_weight_difference.sql` | Shows the difference between the max and min weight for patients with last name 'Maroni' |
 | `patients_born_in_1970s.sql` | Lists first name, last name, and birth date of patients born in the 1970s, sorted by earliest birth date |
 | `city_total_patients.sql` | Shows city and total number of patients per city, ordered by most to least patients, then city name ascending |
-| `q5_placeholder.sql` | Placeholder — query not yet added |
+| `patient_fullname_upper_lower.sql` | Displays full name as UPPER(last_name),lower(first_name) in a single column, ordered by first_name descending |
 
 ## Concepts Practiced
 
